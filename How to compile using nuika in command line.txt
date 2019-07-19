@@ -1,0 +1,2 @@
+
+>python -m nuitka --standalone --plugin-enable=tk-inter --plugin-enable=numpy=scipy --mingw64 Example4_button_in_mainfunction2.py
